@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, soy Yaret
 
-<!--
-**Yxretxd/yxretxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | 🎮 Roblox Scripter  
+🚀 Mejorando cada día  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Sobre mí
+- 🔥 Scripts en Roblox (Lua)
+- 🤖 Bots de Discord
+- 💻 Proyectos en Python
+- 🎯 Siempre aprendiendo
+
+---
+
+## 🚀 Tecnologías
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat&logo=lua)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+
+---
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxretxd&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxretxd&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Proyectos
+- 🎮 Scripts de Roblox
+- 🌐 Web educativa
+- 🤖 Bots de Discord
