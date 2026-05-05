@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Roblox+Scripter;Always+Learning" />
+
 # 👋 Hey, soy Yaret
 
 💻 Python Developer | 🎮 Roblox Scripter  
