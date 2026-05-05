@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hola, soy Yaret;)
+# 👋 Hey, soy Yaret;)
 
 <p align="center">
 💻 Python Developer | 🎮 Roblox Scripter <br>
