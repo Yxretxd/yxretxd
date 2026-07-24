@@ -13,7 +13,7 @@
 # 👋 Hey, soy Yaret;)
 
 <p align="center">
-💻 Python Developer | 🎮 Roblox Scripter <br>
+💻 Python Developer <br>
 🚀 Mejorando cada día
 </p>
 
