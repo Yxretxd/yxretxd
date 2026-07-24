@@ -21,7 +21,6 @@
 
 ## ⚡ Sobre mí
 - 🔥 Scripts en Roblox 
-- 🤖 Bots de Discord
 - 💻 Proyectos en Python
 - 🎯 Siempre aprendiendo
 
@@ -48,8 +47,7 @@
 
 ## 🔥 Proyectos
 - 🎮 Scripts de Roblox  
-- 🌐 Pag. Webs  
-- 🤖 Bots de Discord  
+- 🌐 Pag. Webs
 
 ---
 
